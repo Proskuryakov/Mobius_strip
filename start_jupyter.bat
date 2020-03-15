@@ -1,0 +1,1 @@
+C:\Users\proskuryakov_e_d\AppData\Local\Programs\Python\Python38\Scripts\jupyter-notebook.exe
